@@ -8,7 +8,7 @@ try:
     import requests
 except ImportError:
     print('Error !! : Some dependencies are not installed')
-    print('Type \'pip install -r requirements.txt\' to install all required packages')
+    print('Type \'bash requirements.sh\' to install all required packages')
     exit()
 
 # colors
