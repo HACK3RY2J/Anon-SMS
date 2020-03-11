@@ -1,2 +1,2 @@
-# sms-scam
+# SMS-SCAM
 This Is A Tool To Send Scam Message Of Your Wish...
