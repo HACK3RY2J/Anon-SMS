@@ -85,15 +85,14 @@ resp = requests.post('https://textbelt.com/text',{
 })
 
 print(resp.json())
-if '"success" : true ' in resp.text :
-	print("\033[92m Message Sent Succesfully \033[0m")
-  input('\n\t\tPress Enter To Exit...')
-  banner()
-  exit()
-if '"success" : false ' in resp.text :
-  print("\033[91m Error Occured")
-	print("\033[91m Failed to send SMS! ")
-  input('\n\t\tPress Enter To Exit...')
-  banner()
-  exit()
-  
+if '"success" : true ' in resp.text:
+    print("\033[92m Message Sent Succesfully \033[0m")
+    input('\n\t\tPress Enter To Exit...')
+    banner()
+    exit()
+if '"success" : false ' in resp.text:
+    print("\033[91m Error Occured")
+    print("\033[91m Failed to send SMS! ")
+    input('\n\t\tPress Enter To Exit...')
+    banner()
+    exit()
