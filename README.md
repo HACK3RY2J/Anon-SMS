@@ -16,7 +16,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 - Do not use this to harm others.
 - This script is only for educational purposes or to prank.
-- **None of the developers/contributors are responsible for the misuse of TBomb.**
+- **None of the developers/contributors are responsible for the misuse of Anon-SMS.**
 <br>
 
 ## Features:
@@ -48,7 +48,7 @@ pkg install python
 git clone https://github.com/HACK3RY2J/Anon-SMS.git
 cd Anon-SMS
 bash requirements.sh                     -For First Time Usage Only.
-python Send.py
+python send.py
 ```
 
 ### > For Linux:
@@ -66,7 +66,7 @@ sudo apt install git
 git clone https://github.com/HACK3RY2J/Anon-SMS.git
 cd Anon-SMS
 sudo bash requirements.sh                     -For First Time Usage Only.
-sudo python Send.py
+sudo python send.py
 ```
 ## CONTRIBUTORS:
 
@@ -85,5 +85,6 @@ Feel Free To Open An Issue...
        YouTube Channel: https://www.youtube.com/c/PandaHackers
 ```
 
-<a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a>
+<a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a><br>
+
 <a href="https://www.panndahackers127.blogspot.com">Check Out Our Blog Page</a>
