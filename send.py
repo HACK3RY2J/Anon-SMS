@@ -25,6 +25,12 @@ colors = ['\033[1;31m', '\033[1;32m', '\033[1;33m', '\033[1;34m', '\033[1;35m', 
 # And The Contributors Mentioned At https://github.com/HACK3RY2J/ANon-SMS/
 # If You Wanna Take Credits, Please Look Yourself Again!!
 
+def clr():
+	if os.name == 'nt':
+		os.system('cls')
+	else:
+		os.system('clear')
+
 def banner():
     clr()
     logo = """                                                  
@@ -47,7 +53,7 @@ def banner():
     print(logo)
     print("\n")
 
-os.system("clear")
+clr()
 banner()
 
 print("This Tool Is Used To Send Anonyous Messages")
