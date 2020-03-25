@@ -1,4 +1,4 @@
-#!/usr/bin/env python
++#!/usr/bin/env python
 import os
 import time
 import sys
@@ -57,7 +57,7 @@ clr()
 banner()
 
 print("This Tool Is Used To Send Anonyous Messages")
-Print("Enter The Details Of The Person You Want To Send Anonymous Message")
+print("Enter The Details Of The Person You Want To Send Anonymous Message")
 cc = input("\tEnter Country Code (Without +) : ")
 if '+' in cc:
         tc = list(cc)
