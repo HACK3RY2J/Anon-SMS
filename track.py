@@ -1,4 +1,3 @@
-
 import os
 import sys
 import time
@@ -34,13 +33,11 @@ def banner():
 def Track() :
   TXTID = input("Enter Text ID of Anon-SMS \n\t -->>")
   os.system(f"curl https://textbelt.com/status/{TXTID}")
+  input("Press Enter To Exit..")
+  print("\nThanks For Using Anon-Sms..")
+  print("\tWe Hope To See You Again")
+  exit()
 
-def exeet():
-    banner()
-    print("\nThanks For Using Anon-Sms..")
-    print("\tWe Hope To See You Again")
-    input("Press Enter To Exit..")
-    exit()
 
 clr()
 banner()
@@ -49,7 +46,5 @@ print("This Tool Is Used To Send Anonyous Messages")
 print("Track The Anonymous Message You Sent Using This Tool.")
 print()
 Track()
-exeet()
-
 
 
