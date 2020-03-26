@@ -1,5 +1,6 @@
-<h1 align="center">Anon-SMS v1.1</h1>
+<h1 align="center">Anon-SMS v1.2</h1>
 <p align="center">Aonymous Message Sender for Linux And Termux.</p><br>
+
 ## Note:
 
 - The script requires working network connection to work.
@@ -47,8 +48,7 @@ pkg install git
 pkg install python
 git clone https://github.com/HACK3RY2J/Anon-SMS.git
 cd Anon-SMS
-bash requirements.sh                     -For First Time Usage Only.
-python send.py
+bash Run.sh
 ```
 
 ### > For Linux:
@@ -65,8 +65,7 @@ To use the bomber type the following commands in Linux terminal:
 sudo apt install git
 git clone https://github.com/HACK3RY2J/Anon-SMS.git
 cd Anon-SMS
-sudo bash requirements.sh                     -For First Time Usage Only.
-sudo python send.py
+sudo bash Run.sh
 ```
 ## CONTRIBUTORS:
 
@@ -74,7 +73,7 @@ sudo python send.py
 [@] Mail At: HACK3RY2J@gmail.com
 
 - **Ninja**<br>
-[@] Check At: https://github.com/sanif007
+[@] Check At: https://instagram.com/haoi_hackers_Academy_of_India/
 
 # CONTACT ME:
 
@@ -86,5 +85,4 @@ Feel Free To Open An Issue...
 ```
 
 <a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a><br>
-
 <a href="https://www.panndahackers127.blogspot.com">Check Out Our Blog Page</a>
