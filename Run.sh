@@ -28,12 +28,12 @@ echo -e "\e[1;31m"
 figlet Anon-SMS
 echo -e "\e[1;34m Created By \e[1;32m"  #blue color
 toilet -f mono12 -F border PH
-echo -e "\e[4;34m This Tool Is Created By Panda Hackers \e[0m" #underline+blue
-echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
-echo -e "\e[1;32m           Mail: pandahackers127@gmail.com \e[0m" #yellow
-echo -e "\e[4;32m   YouTube Page: https://youtube.com/c/PandaHackers/ \e[0m" #green
+echo -e "\e[4;34mThis Tool Is Created By Panda Hackers \e[0m" #underline+blue
+echo -e "\e[1;34mFor Any Queries Mail Us!!!\e[0m"
+echo -e "\e[1;32m        Mail: pandahackers127@gmail.com \e[0m" #yellow
+echo -e "\e[4;32mYouTube Page: https://youtube.com/c/PandaHackers/ \e[0m" #green
 echo " "
-echo -e "\e[4;31m Read Instruction Carefully !!! \e[0m" #red
+echo -e "\e[4;31mRead Instruction Carefully !!! \e[0m" #red
 echo " "
 echo "Enter 1 To  Run Anon-SMS "
 echo "Enter 2 To  Track Anon-SMS "  #white
@@ -112,9 +112,9 @@ echo -e "\e[1;32m Update If Doesn't Work.\e[0m"
 echo  " "
 echo -e "\e[4;31m That's All !!!\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
-echo -e "\e[1;32m            Mail: pandahacker127@gmail.com \e[0m"
-echo -e "\e[1;32m       Instagram: https://Instagram.com/Panda_Hackers_official/ \e[0m"
-echo -e "\e[4;32m    YouTube Page: https://www.youtube.com/c/PandaHackers \e[0m"
+echo -e "\e[1;32m        Mail: pandahacker127@gmail.com \e[0m"
+echo -e "\e[1;32m   Instagram: https://Instagram.com/Panda_Hackers_official/ \e[0m"
+echo -e "\e[4;32mYouTube Page: https://www.youtube.com/c/PandaHackers \e[0m"
 echo "Press Enter To Return To Main Menu"
 read a3
 clear
@@ -125,9 +125,9 @@ figlet Anon-SMS
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border PH Squad
 echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
-echo -e "\e[1;32m            Mail: pandahackers127@gmail.com \e[0m"
-echo -e "\e[1;32m       Instagram: https://instagram.com/Panda_Hackers_official/ \e[0m"
-echo -e "\e[4;32m    YouTube Page: https://www.youtube.com/c/PandaHackers/ \e[0m"
+echo -e "\e[1;32m        Mail: pandahackers127@gmail.com \e[0m"
+echo -e "\e[1;32m   Instagram: https://instagram.com/Panda_Hackers_official/ \e[0m"
+echo -e "\e[4;32mYouTube Page: https://www.youtube.com/c/PandaHackers/ \e[0m"
 echo " "
 exit 0
 else
