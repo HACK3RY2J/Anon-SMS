@@ -3,7 +3,7 @@ clear
 echo -e "\e[4;31m Panda Hackers !!! \e[0m"
 echo -e "\e[1;32m Presents \e[0m"
 echo -e "\e[1;34m"
-figlet-slant Anon-SMS
+figlet Anon-SMS
 echo "Press Enter To Launch"
 read a1
 if [[ -s update.pandahackers ]];then
@@ -25,7 +25,7 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet-slant Anon-SMS
+figlet Anon-SMS
 echo -e "\e[1;34m Created By \e[1;32m"  #blue color
 toilet -f mono12 -F border PH
 echo -e "\e[4;34m This Tool Is Created By Panda Hackers \e[0m" #underline+blue
@@ -80,7 +80,7 @@ exit
 elif [ $ch -eq 4 ];then
 clear
 echo -e "\e[1;33m"
-figlet-slant Anon-SMS
+figlet Anon-SMS
 echo -e "\e[1;34mCreated By \e[1;34m"  #Blue Color
 toilet -f mono12 -F border PH
 echo  " "
@@ -121,7 +121,7 @@ clear
 elif [ $ch -eq 5 ];then
 clear
 echo -e "\e[1;31m"
-figlet-slant Anon-SMS
+figlet Anon-SMS
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border PH Squad
 echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
