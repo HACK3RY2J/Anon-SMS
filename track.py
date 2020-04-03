@@ -35,7 +35,7 @@ def Track() :
   os.system(f"curl https://textbelt.com/status/{TXTID}")
   input("Press Enter To Exit..")
   print("\nThanks For Using Anon-Sms..")
-  print("\tWe Hope To See You Again")
+  print("\tWe Hope To See You Again\n Type bash Run.sh\n\tTo Run Again..")
   exit()
 
 
