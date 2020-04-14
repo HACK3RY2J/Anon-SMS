@@ -3,13 +3,13 @@
 
 ## Updates:
 **v1.0**
-Basic Features And Non-Colourful Interface.
+Basic Features And Non-Colourful Interface.<br>
 **v1.1**
-Adding Colours.
+Adding Colours.<br>
 **v1.2**
-Fixing Colour Issues And Adding Tracking Feature.
+Fixing Colour Issues And Adding Tracking Feature.<br>
 **v1.3**
-Adding Lolcat To Make More Colourful Start.
+Adding Lolcat To Make More Colourful Start.<br>
 
 ## Note:
 
@@ -90,7 +90,7 @@ sudo bash Run.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail: HACK3RY2J@gmail.com<br>
+                 Mail: HACK3RY2J@gmail.com
        YouTube Channel: https://www.youtube.com/c/PandaHackers
 ```
 
