@@ -97,4 +97,4 @@ Feel Free To Open An Issue...
 ```
 
 <a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a><br>
-<a href="https://www.panndahackers127.blogspot.com">Check Out Our Blog Page</a>
+<a href="https://www.pandahackers127.blogspot.com">Check Out Our Blog Page</a>
