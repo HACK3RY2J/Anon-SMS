@@ -1,6 +1,16 @@
 <h1 align="center">Anon-SMS v1.2</h1>
 <p align="center">Anonymous Message Sender for Linux And Termux.</p><br>
 
+## Updates:
+**v1.0**
+Basic Features And Non-Colourful Interface.
+**v1.1**
+Adding Colours.
+**v1.2**
+Fixing Colour Issues And Adding Tracking Feature.
+**v1.3**
+Adding Lolcat To Make More Colourful Start.
+
 ## Note:
 
 - The script requires working network connection to work.
