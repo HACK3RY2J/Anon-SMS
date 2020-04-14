@@ -2,14 +2,16 @@
 <p align="center">Anonymous Message Sender for Linux And Termux.</p><br>
 
 ## Updates:
-**v1.0**
-Basic Features And Non-Colourful Interface.<br>
-**v1.1**
-Adding Colours.<br>
-**v1.2**
-Fixing Colour Issues And Adding Tracking Feature.<br>
-**v1.3**
-Adding Lolcat To Make More Colourful Start.<br>
+**v1.0**<br>
+[+] Basic Features<br>
+[+] Non-Colourful Interface.<br><br>
+**v1.1**<br>
+[+] Adding Colours.<br><br>
+**v1.2**<br>
+[+] Fixing Colour Issues<br>
+[+] Adding Tracking Feature.<br><br>
+**v1.3**<br>
+[+]Adding Lolcat To Make More Colourful Start.<br>
 
 ## Note:
 
