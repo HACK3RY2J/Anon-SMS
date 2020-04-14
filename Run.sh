@@ -1,9 +1,10 @@
-#!/bin/bash
+#!/usr/bin/env bash
+
 clear
 echo -e "\e[4;31m Panda Hackers !!! \e[0m"
 echo -e "\e[1;32m Presents \e[0m"
 echo -e "\e[1;34m"
-figlet Anon-SMS
+figlet -f slant Anon-SMS
 echo "Press Enter To Launch"
 read a1
 if [[ -s update.pandahackers ]];then
@@ -12,8 +13,9 @@ else
 echo 'Installing Requirements....'
 echo .
 echo .
-apt install figlet toilet python curl -y
+apt install figlet toilet python curl ruby -y
 apt install python3-pip
+gem install lolcat
 echo This Tool Is Created By HACK3RY2J
 echo This Script Is Maintained By Panda Hackers >update.pandahackers
 echo Requirements Installed....
@@ -25,9 +27,9 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet Anon-SMS
+figlet -f slant Anon-SMS | lolcat
 echo -e "\e[1;34m Created By \e[1;32m"  #blue color
-toilet -f mono12 -F border PH
+toilet -f mono12 -F border PH | lolcat
 echo -e "\e[4;34mThis Tool Is Created By Panda Hackers \e[0m" #underline+blue
 echo -e "\e[1;34mFor Any Queries Mail Us!!!\e[0m"
 echo -e "\e[1;32m        Mail: pandahackers127@gmail.com \e[0m" #yellow
@@ -80,9 +82,9 @@ exit
 elif [ $ch -eq 4 ];then
 clear
 echo -e "\e[1;33m"
-figlet Anon-SMS
+figlet -f slant Anon-SMS | lolcat
 echo -e "\e[1;34mCreated By \e[1;34m"  #Blue Color
-toilet -f mono12 -F border PH
+toilet -f mono12 -F border PH | lolcat
 echo  " "
 echo -e "\e[1;32m                   Features\e[1;34m"
 echo "  Ultra-Fast-Smooth Sending"
@@ -121,9 +123,9 @@ clear
 elif [ $ch -eq 5 ];then
 clear
 echo -e "\e[1;31m"
-figlet Anon-SMS
+figlet -f slant Anon-SMS | lolcat
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border PH Squad
+toilet -f mono12 -F border PH Squad | lolcat
 echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
 echo -e "\e[1;32m        Mail: pandahackers127@gmail.com \e[0m"
 echo -e "\e[1;32m   Instagram: https://instagram.com/Panda_Hackers_official/ \e[0m"
