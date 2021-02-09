@@ -1,4 +1,4 @@
-<h1 align="center">Anon-SMS v1.2</h1>
+<h1 align="center">Anon-SMS v1.3</h1>
 <p align="center">Anonymous Message Sender for Linux And Termux.</p><br>
 
 ## Updates:
@@ -97,4 +97,4 @@ Feel Free To Open An Issue...
 ```
 
 <a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a><br>
-<a href="https://www.pandahackers127.blogspot.com">Check Out Our Blog Page</a>
+<a href="https://www.henryhacks.blogspot.com">Check Out Our Blog Page</a>
