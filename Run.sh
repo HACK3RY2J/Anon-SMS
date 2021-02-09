@@ -125,7 +125,7 @@ clear
 echo -e "\e[1;31m"
 figlet -f slant Anon-SMS | lolcat
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border PH Squad | lolcat
+figlet -f pagga -F border HACK3RY2J | lolcat
 echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
 echo -e "\e[1;32m        Mail: HACK3RY2J@gmail.com \e[0m"
 echo -e "\e[1;32m   Instagram: https://instagram.com/ \e[0m"
