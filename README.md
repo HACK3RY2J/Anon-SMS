@@ -1,4 +1,4 @@
-<h1 align="center">Anon-SMS v1.3</h1>
+<h1 align="center">Anon-SMS v1.4</h1>
 <p align="center">Anonymous Message Sender for Linux And Termux.</p><br>
 
 ## Updates:
@@ -11,7 +11,9 @@
 [+] Fixing Colour Issues<br>
 [+] Adding Tracking Feature.<br><br>
 **v1.3**<br>
-[+]Adding Lolcat To Make More Colourful Start.<br>
+[+] Adding Lolcat To Make More Colourful Start.<br><br>
+**v1.4**<br>
+[+] Adding Auto-Update Feature.<br>
 
 ## Note:
 
@@ -25,7 +27,7 @@ Here's how you can check it. Type this command in your terminal.
 ```
 $ python -V
 ```
-If output looks like `Python 3` - Congrats, Python 3 is installed properly.
+If output looks like `Python 3` or above - Congrats, Python 3 is installed properly.
 
 - Do not use this to harm others.
 - This script is only for educational purposes or to prank.
