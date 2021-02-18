@@ -17,7 +17,7 @@ apt install figlet toilet python curl ruby -y
 apt install python3-pip
 gem install lolcat
 echo This Tool Is Created By HACK3RY2J
-echo This Script Is Maintained By Panda Hackers >update.pandahackers
+echo This Script Is Created By Panda Hackers HACK3RY2J >update.pandahackers
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
@@ -54,7 +54,7 @@ elif [ $ch -eq 2 ];then
 clear
 echo -e "\e[1;32m"
 echo 'Track Anon-SMS'> call.xxx
-python3 track.py
+python3 send.py track
 rm *.xxx >/dev/null 2>&1
 exit 0
 elif [ $ch -eq 3 ];then
