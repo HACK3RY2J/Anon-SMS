@@ -13,7 +13,7 @@ try:
     import requests
 except ImportError:
     print('Error !! : Some dependencies are not installed')
-    print('Type \'bash requirements.sh\' to install all required packages')
+    print('Re-install the Tool to install all required packages')
     exit()
 
 # colors
