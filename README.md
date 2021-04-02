@@ -14,6 +14,7 @@
 [+] Adding Lolcat To Make More Colourful Start.<br><br>
 **v1.4**<br>
 [+] Adding Auto-Update Feature.<br>
+[+] Adding Telegram Discussion.<br>
 
 ## Note:
 
