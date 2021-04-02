@@ -34,6 +34,7 @@ echo -e "\e[4;34mThis Tool Is Created By Panda Hackers \e[0m" #underline+blue
 echo -e "\e[1;34mFor Any Queries Mail Us!!!\e[0m"
 echo -e "\e[1;32m        Mail: Hack3ry2j@gmail.com \e[0m" #yellow
 echo -e "\e[4;32mYouTube Page: https://youtube.com/c/PandaHackers/ \e[0m" #green
+echo -e "\e[1;34m    Telegram: https://t.me/ItzAnonSMS \e[0m"
 echo " "
 echo -e "\e[4;31mRead Instruction Carefully !!! \e[0m" #red
 echo " "
@@ -99,7 +100,7 @@ echo "         [-] Mail At: pandahacker127@gmail.com"
 echo -e "\e[1;33m      [*]  Instagram   \e[1;31m"
 echo "         [-] Ping At: http://Instagram.com/"
 echo -e "\e[1;33m      [*]  Telegram   \e[1;31m"
-echo "         [-] Ping At: https://t.me/Techie_Robot/"
+echo "         [-] Ping At: https://t.me/ItzAnonSMS/"
 echo -e "\e[1;33m      [*]  HACK3RY2J   \e[1;31m"
 echo "         [-] Mail At: HACK3RY2J@gmail.com"
 echo -e "\e[1;33m      [*]  HAOI      \e[1;31m"
@@ -128,7 +129,7 @@ echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f pagga -F border HACK3RY2J | lolcat
 echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
 echo -e "\e[1;32m        Mail: HACK3RY2J@gmail.com \e[0m"
-echo -e "\e[1;32m   Instagram: https://instagram.com/ \e[0m"
+echo -e "\e[1;32m    Telegram: https://t.me/ItzAnonSMS \e[0m"
 echo -e "\e[4;32mYouTube Page: https://www.youtube.com/c/PandaHackers/ \e[0m"
 echo " "
 exit 0
