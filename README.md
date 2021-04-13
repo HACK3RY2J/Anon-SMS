@@ -75,7 +75,7 @@ so, installing git as per instructions below may not work.
 Please check out how to install `git` for your Linux distribution.
 Commands below provide instructions for Debian-based systems.
 
-To use the bomber type the following commands in Linux terminal:
+To Send Message Anonymously type the following commands in Linux terminal:
 ```
 sudo apt install git
 git clone https://github.com/HACK3RY2J/Anon-SMS.git
