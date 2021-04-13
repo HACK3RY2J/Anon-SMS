@@ -100,5 +100,5 @@ Feel Free To Open An Issue...
 ```
 
 <a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a><br>
-<a href="https://www.henryhacks.blogspot.com">Check Out Our Blog Page</a>
+<a href="https://www.henryhacks.blogspot.com">Check Out Our Blog Page</a><br>
 <a href="https://t.me/itzAnonSMS">Check Out Our Telegram Discussion</a>
