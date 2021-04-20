@@ -13,8 +13,9 @@ try:
     import requests
 except ImportError:
     print('Error !! : Some dependencies are not installed')
-    print('Re-install the Tool to install all required packages')
-    exit()
+    print('Error Occured!!!\nUse Non-Supported Version')
+    input('Press Any Key To Use Non-supported Version')
+    os.system('bash send.sh')
 
 # colors
 yellow='\033[93m'
