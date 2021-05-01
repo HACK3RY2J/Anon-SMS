@@ -66,6 +66,9 @@ def Track() :
   input("\nPress Enter To Exit..")
   print("\nThanks For Using Anon-Sms..")
   print("\tWe Hope To See You Again\n Type bash Run.sh\n\tTo Run Again..")
+  input('\n\n\nThank You For Using Anon-SMS\nAfter v1.45 There are Ads Enabled in this Tool.\nPress Enter To Continue to View An Ad.')
+  os.system('termux-open-url https://youtu.be/TV_z3ljFaLY')
+  print("Thank you for Your Time...")
   exit()
 
 def update():
@@ -154,6 +157,9 @@ elif type == 0:
 		})
 		
 		print(resp.json())
+		input('\n\n\nThank You For Using Anon-SMS\nAfter v1.45 There are Ads Enabled in this Tool.\nPress Enter To Continue to View An Ad.')
+		os.system('termux-open-url https://youtu.be/TV_z3ljFaLY')
+		print("Thank you for Your Time...")
 		break
 		if '"success" : true ' in resp.text:
 		    print("\033[92m Message Sent Succesfully \033[0m")
