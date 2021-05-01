@@ -15,7 +15,7 @@ except ImportError:
     print('Error !! : Some dependencies are not installed')
     print('Error Occured!!!\nUse Non-Supported Version')
     input('Press Any Key To Use Non-supported Version')
-    os.system('bash send.sh --help')
+    os.system('bash send.sh --sendsms')
 
 # colors
 yellow='\033[93m'
