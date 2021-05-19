@@ -156,7 +156,7 @@ elif type == 0:
 			'key' : 'textbelt'
 		})
 		
-		print(resp.json())
+		# print(resp.json())
 		input('\n\n\nThank You For Using Anon-SMS\nAfter v1.45 There are Ads Enabled in this Tool.\nPress Enter To Continue to View An Ad.\n\nSubscribe The Channel And Like The Video.')
 		os.system('termux-open-url https://youtu.be/TV_z3ljFaLY')
 		print("Thank you for Your Time...")
