@@ -1,14 +1,17 @@
 #!/usr/bin/env python
+import os
 import threading
 import string
 import base64
-import urllib.request
-import urllib.parse
-import os
+try:
+	import urllib.request
+        import urllib.parse
+except ImportError:
+	os.system("pip install urllib")
+	os.system("pip3 install urllib")
 import time
 import sys
 import random
-
 try:
     import requests
 except ImportError:
