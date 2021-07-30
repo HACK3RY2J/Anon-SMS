@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+if [[ "$(id -u)" -ne 0 ]]; then
+  echo "
+Please, Run This Programm as Root!
+"
+  exit 1
+fi
 clear
 echo -e "\e[4;31m Panda Hackers !!! \e[0m"
 echo -e "\e[1;32m Presents \e[0m"
