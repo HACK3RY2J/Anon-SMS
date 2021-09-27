@@ -87,9 +87,6 @@ sudo bash Run.sh
 - **HACK3RY2J**<br>
 [@] Mail At: HACK3RY2J@gmail.com
 
-- **Ninja**<br>
-[@] Check At: https://instagram.com/haoi_hackers_Academy_of_India/
-
 # CONTACT ME:
 
 Feel Free To Open An Issue...
