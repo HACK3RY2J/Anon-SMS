@@ -4,7 +4,7 @@ clear
 echo -e "\e[4;31m Panda Hackers !!! \e[0m"
 echo -e "\e[1;32m Presents \e[0m"
 echo -e "\e[1;34m"
-[ `command -v figlet` ] && figlet -f slant Anon-SMS
+figlet -f slant Anon-SMS
 echo "Press Enter To Launch"
 read a1
 if [[ -s update.pandahackers ]];then
@@ -13,7 +13,7 @@ else
 echo 'Installing Requirements....'
 echo .
 echo .
-apt install figlet toilet python3 curl ruby -y
+apt install figlet toilet python curl ruby -y
 apt install python3-pip
 gem install lolcat
 echo This Tool Is Created By HACK3RY2J
