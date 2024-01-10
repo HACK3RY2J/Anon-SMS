@@ -1,4 +1,4 @@
-<h1 align="center">Anon-SMS v1.4</h1>
+<h1 align="center">Anon-SMS v1.5</h1>
 <p align="center">Anonymous Message Sender for Linux And Termux.</p><br>
 
 ## Updates:
@@ -6,15 +6,18 @@
 [+] Basic Features<br>
 [+] Non-Colourful Interface.<br><br>
 **v1.1**<br>
-[+] Adding Colours.<br><br>
+[+] Added Colours.<br><br>
 **v1.2**<br>
 [+] Fixing Colour Issues<br>
-[+] Adding Tracking Feature.<br><br>
+[+] Added Tracking Feature.<br><br>
 **v1.3**<br>
-[+] Adding Lolcat To Make More Colourful Start.<br><br>
+[+] Added Lolcat To Make More Colourful Start.<br><br>
 **v1.4**<br>
-[+] Adding Auto-Update Feature.<br>
-[+] Adding Telegram Discussion.<br>
+[+] Added Auto-Update Feature.<br>
+[+] Added Telegram Discussion.<br><br>
+**v1.5**<br>
+[+] Added Premium API Feature.<br>
+[+] Added Tutorials.<br>
 
 ## Note:
 
@@ -61,7 +64,7 @@ To Send Messages Anonymously type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/HACK3RY2J/Anon-SMS.git
 cd Anon-SMS
 bash Run.sh
 ```
@@ -78,7 +81,7 @@ Commands below provide instructions for Debian-based systems.
 To Send Message Anonymously type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/HACK3RY2J/Anon-SMS.git
 cd Anon-SMS
 sudo bash Run.sh
 ```
@@ -92,8 +95,7 @@ sudo bash Run.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail: HACK3RY2J@gmail.com
-      YouTube Channel: https://www.youtube.com/c/PandaHackers
+                  Mail: HACK3RY2J@gmail.com
 ```
 
 <a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a><br>
