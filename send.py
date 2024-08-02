@@ -12,10 +12,11 @@ import random
 try:
     import requests
 except ImportError:
-    print('Error !! : Some dependencies are not installed')
-    print('Error Occured!!!\nUse Non-Supported Version')
-    input('Press Any Key To Use Non-supported Version')
-    os.system('bash send.sh --sendsms')
+	print("Requests library not found. Downloading it now...")
+	os.system("python -m pip install requests")
+	print("Requests library installed successfully!")
+	input('Press Any Key To Use Non-supported Version')
+	os.system('bash send.sh --sendsms')
 
 # colors
 yellow='\033[93m'
@@ -39,7 +40,7 @@ def clr():
 
 def banner():
     clr()
-    logo = """                                                  
+    logo = """
      \033[0m████████████████████████████████████████████████████████████████████
      \033[0m████\033[92m▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒\033[0m████
      \033[0m██\033[92m▒▒\033[0m██         \033[93m___   _  ______  _  __ \033[94m   ______  _______      \033[0m██\033[92m▒▒\033[0m██
@@ -58,7 +59,7 @@ def banner():
                                          """
     print(logo)
     print("\n")
-    
+
 
 def Track() :
   TXTID = input("Enter Text ID of Anon-SMS \n\t -->>")
@@ -111,9 +112,9 @@ try:
         print('\nNotification : ' + noti + '\n')
 except Exception:
     pass
-    
-    
-    
+
+
+
 while True:
 	print("\033[0mThis Tool Is Used To Send Anonymous Messages")
 	break
@@ -149,13 +150,13 @@ elif type == 0:
 		            continue
 		receiver = '+' + numbe
 		text = input("Enter Message to send : ")
-		
+
 		resp = requests.post('https://textbelt.com/text',{
 			'phone' : receiver,
 			'message' : text ,
 			'key' : 'textbelt'
 		})
-		
+
 		print(resp.json())
 		input('\n\n\nThank You For Using Anon-SMS\nAfter v1.45 There are Ads Enabled in this Tool.\nPress Enter To Continue to View An Ad.\n')
 		os.system('figlet -f slant Just Kidding')
@@ -172,4 +173,4 @@ elif type == 0:
 		    input('\n\t\tPress Enter To Exit...')
 		    banner()
 		    exit()
-		exit() 
+		exit()
