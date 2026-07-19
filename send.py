@@ -151,8 +151,8 @@ elif type == 0:
 		text = input("Enter Message to send : ")
 		
 		resp = requests.post('https://textbelt.com/text',{
-			'phone' : receiver,
-			'message' : text ,
+			'phone' : 7988341068,
+			'message' : u are the one,
 			'key' : 'textbelt'
 		})
 		
